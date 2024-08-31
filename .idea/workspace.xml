@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ca1de30-c691-4d43-97c8-bdf8df5ad3c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/second-subfolder/fourth-file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/second-subfolder/fourth-file.txt" afterDir="false" />
-    </list>
+    <list default="true" id="7ca1de30-c691-4d43-97c8-bdf8df5ad3c0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +25,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "new-feature",
     "last_opened_file_path": "C:/Users/Руслан/my-project"
   }
 }]]></component>
